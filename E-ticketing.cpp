@@ -13,7 +13,7 @@ About us*/
 
 
 
-int maini()
+int main()
 {
 
 printf("\t\t\t\t==Wellcome to Ticket Booking System==\n");
