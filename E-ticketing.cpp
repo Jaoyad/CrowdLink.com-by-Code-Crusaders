@@ -3,7 +3,8 @@ Ticket Booking
 Ticket Cancel
 Ticket Status
 Add Match(for officials)
-About us*/
+About us
+Exit*/
 
 #include<stdio.h>
 #include<stdlib.h>
